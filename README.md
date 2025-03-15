@@ -5,7 +5,6 @@
   </samp>
 </p>
 
-<details>
   ✉️ liuweiqi@nieer.ac.cn(西北院刘伟琦)</summary>
   
 </details>
