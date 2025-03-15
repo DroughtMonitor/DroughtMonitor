@@ -6,7 +6,7 @@
 </p>
 
 <details>
-  <summary><b>:telescope: 2025 goal</b></summary>
+  <summary><b>:✉️ liuweiqi@nieer.ac.cn</b></summary>
   
 </details>
 
