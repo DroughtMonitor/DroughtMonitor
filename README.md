@@ -6,7 +6,7 @@
 </p>
 
 <details>
-  <summary><b>:✉️ liuweiqi@nieer.ac.cn(西北院刘伟琦)</b></summary>
+  ✉️ liuweiqi@nieer.ac.cn(西北院刘伟琦)</summary>
   
 </details>
 
